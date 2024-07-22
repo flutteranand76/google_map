@@ -1,5 +1,7 @@
-# google_map
-This repository is for education purpose so that you can learn how to implement Google Maps into your Flutter project.
+# google_map_by_using_Getx 
+- In this repository you can learn how to implement Google Maps into your Flutter project. 
+- How to update markers and polyline path by using getx as state management.
+- How to use Rx variable to update the map
 
 ## Getting Started
 
